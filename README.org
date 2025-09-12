@@ -4,6 +4,6 @@ LEM(Lem extension manager) it's a package manager for the Lem editor/IDE
 
 |---------+--------------------------------------------------------------|
 | source  | git:https://github.com/lem-project/lem-extension-manager.git |
-| commit  | cb19321                                                      |
+| commit  | d467164                                                      |
 | systems | lem-extension-manager                                        |
 |---------+--------------------------------------------------------------|
